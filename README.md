@@ -47,4 +47,4 @@ Maze generation project focused on algorithms, logic, and problem solving.
 ## Contact
 
 - Email: aurelien.delcey@gmail.com
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/aurelien-delcey
